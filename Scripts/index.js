@@ -3,7 +3,7 @@
  * - Functions utilize charCode to establish random letters, numbers and Symbols
  */
 
-// Clear the concole on every refresh
+// Clear the console on every refresh
 console.clear();
 
 // Store value in Element
